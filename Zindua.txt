@@ -1,0 +1,6 @@
+# opening a file
+
+f=open("week_1\Introduction.py")
+print(f.read)
+
+
